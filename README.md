@@ -26,6 +26,8 @@ The image is converted from BGR to HSV color space.
 A color threshold is applied using cv2.inRange() to isolate the desired color.
 Contours are detected and drawn to highlight the selected color regions.
 
-## 📽 Project Demo  
+## 📽 Project Demo   
+[Click here to watch the demo](https://github.com/SUVETHAV30/Color-Detection-with-OpenCV/blob/85bbdf4dc52ec4ae9c9d1f2d5ddfce53abc49f77/frame%202025-03-15%2019-10-00.mp4)
+
 
 
