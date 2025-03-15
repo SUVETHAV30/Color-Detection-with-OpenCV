@@ -1,5 +1,3 @@
-
-
 Color Detection using OpenCV and HSV Colorspace
 
 Overview:
