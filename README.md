@@ -27,5 +27,5 @@ A color threshold is applied using cv2.inRange() to isolate the desired color.
 Contours are detected and drawn to highlight the selected color regions.
 
 ## 📽 Project Demo  
-[Click here to watch the demo](https://github.com/your-username/your-repo/blob/main/demo.mp)
+
 
